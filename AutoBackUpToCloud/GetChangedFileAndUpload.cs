@@ -4,12 +4,15 @@ using LibraryCloud;
 using LibrarySqlite;
 using System.Timers;
 using System.Threading.Tasks;
+using System.Collections.ObjectModel;
 
 namespace AutoBackUpToCloud
 {
     class GetChangedFileAndUpload
     {
         static private Timer backupFolderSchedule { get; set; }
+        static private ObservableCollection<Class.Directory> directories;
+        static private ObservableCollection<Class.Directory> directoriesExcludes;
 
         static async public Task Start()
         {
@@ -17,6 +20,9 @@ namespace AutoBackUpToCloud
 
             TimeSpan setTime = Properties.Settings.Default.StartBackupTime;
             TimeSpan timeNow = DateTime.Now.TimeOfDay;
+
+            directories = DatabaseHandle.BackupDirectory.GetDirectories();
+            directoriesExcludes = DatabaseHandle.BackupDirectoryExclude.GetBackupDirectoryExclude();
 
             // Wait until the first run time
             if (timeNow > setTime) setTime += new TimeSpan(24, 0, 0);
@@ -46,8 +52,6 @@ namespace AutoBackUpToCloud
 
         private static async Task backupProcess()
         {
-            var directories = DatabaseHandle.BackupDirectory.GetDirectories();
-
             if (directories.Count > 0)
             {
                 foreach (var directory in directories)
@@ -72,7 +76,6 @@ namespace AutoBackUpToCloud
 
         private static async Task backupDirectory(string directory)
         {
-
             foreach(string file in Directory.GetFiles(directory))
             {
                 if (file.Length > 258)
@@ -88,6 +91,10 @@ namespace AutoBackUpToCloud
 
             foreach(string subDirectory in Directory.GetDirectories(directory))
             {
+                if (directoriesExcludes.Contains(new Class.Directory() { Text = subDirectory}))
+                {
+                    continue;
+                }
                 await backupDirectory(subDirectory);
             }
         }
