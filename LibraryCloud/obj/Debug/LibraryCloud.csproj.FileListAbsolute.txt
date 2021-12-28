@@ -1,0 +1,136 @@
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.csprojAssemblyReference.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\obj\Debug\LibraryCloud.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\obj\Debug\LibraryCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\obj\Debug\LibraryCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\obj\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibraryCloud\obj\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Auth.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\obj\Debug\LibraryCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\obj\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibraryCloud\obj\Debug\LibraryCloud.pdb

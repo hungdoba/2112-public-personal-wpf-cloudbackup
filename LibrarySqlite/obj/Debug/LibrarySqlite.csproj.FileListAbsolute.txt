@@ -1,0 +1,34 @@
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CopyComplete
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CopyComplete
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CopyComplete
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\obj\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\obj\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.csproj.CopyComplete
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\LibrarySqlite\obj\Debug\LibrarySqlite.pdb

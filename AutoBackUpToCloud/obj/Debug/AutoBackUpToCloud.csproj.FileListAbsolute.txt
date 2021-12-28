@@ -1,0 +1,225 @@
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.config
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csprojAssemblyReference.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\App.g.cs
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_MarkupCompile.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.Properties.Resources.resources
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.GenerateResource.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettup.g.cs
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettup.baml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.g.resources
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowBackupLog.baml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowBackupLog.g.cs
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.g.cs
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.baml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.TrustInfo.xml
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_Content.g.cs
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\SQLite.Interop.dll
+C:\Users\PC3020\source\repos\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LocalDatabase.db
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\SQLite.Interop.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LocalDatabase.db
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.config
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowBackupLog.baml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.baml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettup.baml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowBackupLog.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\WindowSettup.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\App.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_Content.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_MarkupCompile.cache
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.g.resources
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.Properties.Resources.resources
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.GenerateResource.cache
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\Main.ico
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.TrustInfo.xml
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\Public\AutoBackUpToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Main.ico
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\SQLite.Interop.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\LocalDatabase.db
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.config
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\WindowBackupLog.baml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.baml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\WindowSettup.baml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\WindowBackupLog.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\WindowSettup.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\App.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_Content.g.cs
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_MarkupCompile.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.g.resources
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.Properties.Resources.resources
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.GenerateResource.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.TrustInfo.xml
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\PC3020\source\repos\Public\AutoBackupToCloud-main\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.ResolveComReference.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Main.ico
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\SQLite.Interop.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\LocalDatabase.db
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.config
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\AutoBackUpToCloud.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\LibrarySqlite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.ValueTuple.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Memory.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Buffers.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\LibraryCloud.dll.config
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\LibrarySqlite.pdb
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.ValueTuple.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Memory.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\bin\Debug\System.Buffers.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.AssemblyReference.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.ResolveComReference.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\WindowBackupLog.baml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.baml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\WindowSettup.baml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\WindowBackupLog.g.cs
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\WindowSettingSecurity.g.cs
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\WindowSettup.g.cs
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\App.g.cs
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_Content.g.cs
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud_MarkupCompile.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.g.resources
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.Properties.Resources.resources
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.GenerateResource.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.TrustInfo.xml
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe.manifest
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.application
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.csproj.CopyComplete
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.exe
+C:\Users\PC3020\source\repos\2. AutoBackupToCloud\AutoBackUpToCloud\obj\Debug\AutoBackUpToCloud.pdb
