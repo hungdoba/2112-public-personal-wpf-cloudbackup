@@ -384,22 +384,40 @@ namespace AutoBackUpToCloud
 
         private void unEnableAllButton()
         {
+            btnStop.IsEnabled = true;
+            btnStart.IsEnabled = false;
             btnNewDirectory.IsEnabled = false;
             btnDeleteDirectory.IsEnabled = false;
             btnInsertToDatabase.IsEnabled = false;
             btnSetSecurityInformation.IsEnabled = false;
-            btnStart.IsEnabled = false;
-            btnStop.IsEnabled = true;
+
+            txtBackupCycle.IsEnabled = false;
+            txtStartBackupTime.IsEnabled = false;
+
+            cbStartWithSystem.IsEnabled = false;
+            cbBackupDirectory.IsEnabled = false;
+
+            gridDirectory.IsEnabled = false;
+            gridDirectoryExclude.IsEnabled = false;
         }
 
         private void enableAllButton()
         {
+            btnStop.IsEnabled = false;
+            btnStart.IsEnabled = true;
             btnNewDirectory.IsEnabled = true;
             btnDeleteDirectory.IsEnabled = true;
             btnInsertToDatabase.IsEnabled = true;
             btnSetSecurityInformation.IsEnabled = true;
-            btnStart.IsEnabled = true;
-            btnStop.IsEnabled = false;
+
+            txtBackupCycle.IsEnabled = true;
+            txtStartBackupTime.IsEnabled = true;
+
+            cbStartWithSystem.IsEnabled = true;
+            cbBackupDirectory.IsEnabled = true;
+
+            gridDirectory.IsEnabled = (bool)cbBackupDirectory.IsChecked;
+            gridDirectoryExclude.IsEnabled = !(bool)cbBackupDirectory.IsChecked;
         }
 
         private void btnShowBackupLog_Click(object sender, RoutedEventArgs e)

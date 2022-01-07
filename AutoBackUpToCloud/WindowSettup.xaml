@@ -66,7 +66,7 @@
 
             <Button x:Name="btnShowBackupLog" Grid.Column="4" Grid.Row="1" Content="Backup History" Click="btnShowBackupLog_Click" Margin="5" IsEnabled="True" BorderBrush="AliceBlue"/>
 
-            <CheckBox x:Name="cbBackupDirectory" Grid.Row="2" Grid.Column="4" Margin="20,0,0,0" Content="  Setup for Backup Directory?" VerticalContentAlignment="Center" Checked="cbBackupDirectory_Checked" Unchecked="cbBackupDirectory_Unchecked" IsChecked="True"/>
+            <CheckBox x:Name="cbBackupDirectory" Grid.Row="2" Grid.Column="4" Margin="20,0,0,0" Content="  Setup for Backup Directory?" VerticalContentAlignment="Center" Checked="cbBackupDirectory_Checked" Unchecked="cbBackupDirectory_Unchecked" IsChecked="True" IsThreeState="False"/>
 
             <CheckBox x:Name="cbStartWithSystem" Grid.Row="3" Grid.Column="4" Margin="20,0,0,0" Content=" Start with System" VerticalContentAlignment="Center" IsThreeState="False" Click="cbStartWithSystem_Click"/>
 

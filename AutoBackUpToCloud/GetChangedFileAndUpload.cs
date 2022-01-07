@@ -80,7 +80,7 @@ namespace AutoBackUpToCloud
             {
                 if (file.Length > 258)
                 {
-                    DatabaseHandle.BackupLog.Insert(file, "Filename too long");
+                    DatabaseHandle.BackupLog.Insert(file, "Not Backup: Filename too long");
                     continue;
                 }
                 if (isBackup(file))
@@ -89,14 +89,25 @@ namespace AutoBackUpToCloud
                 }
             }
 
-            foreach(string subDirectory in Directory.GetDirectories(directory))
+            foreach (string subDirectory in Directory.GetDirectories(directory))
             {
-                if (directoriesExcludes.Contains(new Class.Directory() { Text = subDirectory}))
+                if (isBackupDirectory(subDirectory))
                 {
-                    continue;
+                    await backupDirectory(subDirectory);
                 }
-                await backupDirectory(subDirectory);
             }
+        }
+
+        private static bool isBackupDirectory(string directory)
+        {
+            foreach (Class.Directory temp in directoriesExcludes)
+            {
+                if (directory == temp.Text)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         private static bool isBackup(string fileFullName)
@@ -108,7 +119,6 @@ namespace AutoBackUpToCloud
             return DateTime.Compare(lastestTime, DateTime.Now.AddMilliseconds(-Properties.Settings.Default.BackupCycle)) > 0;
         }
 
-
         private static DateTime LastestTime(string path)
         {
             DateTime lastestTime = new DateTime(1900, 1, 1);
@@ -116,7 +126,7 @@ namespace AutoBackUpToCloud
             try { lastestTime = File.GetLastWriteTime(path); }
             catch
             {
-                DatabaseHandle.BackupLog.Insert(path, "Not has last write time");
+                DatabaseHandle.BackupLog.Insert(path, "Not Backup: Not has last write time");
             }
 
             return lastestTime;
