@@ -104,6 +104,7 @@ namespace AutoBackUpToCloud
             if (isAppRunning == true)
             {
                 startProgram();
+                WindowState = WindowState.Minimized;
             }
             else if(isAppRunning == false)
             {
